@@ -1,5 +1,7 @@
 # ISBN 9787560623610
 
+find at https://libgen.is/book/index.php?md5=F1DB269CD7F7BC4058FFAA8EADD41099
+
 Prediction and reduction of antenna radar cross section
 
 Title:	Prediction and reduction of antenna radar cross section
